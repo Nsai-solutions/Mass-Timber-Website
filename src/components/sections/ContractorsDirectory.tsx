@@ -15,7 +15,7 @@ const tabs = [
 ];
 
 const categories = ['Mass Timber'];
-const locations = ['California', 'Colorado', 'Connecticut', 'Georgia', 'Iowa', 'Maine', 'Minnesota', 'Missouri', 'Newfoundland and Labrador', 'Ohio', 'Ontario', 'Oregon', 'Pennsylvania', 'Texas', 'Washington'];
+const locations = ['California', 'Colorado', 'Connecticut', 'Florida', 'Georgia', 'Illinois', 'Iowa', 'Maine', 'Maryland', 'Michigan', 'Minnesota', 'Missouri', 'Newfoundland and Labrador', 'Ohio', 'Ontario', 'Oregon', 'Pennsylvania', 'Saskatchewan', 'Texas', 'Washington'];
 
 export function ContractorsDirectory() {
   const contractors = contractorsData as Contractor[];
