@@ -23,7 +23,7 @@
     "id": "2",
     "name": "BAPKO Metal, Inc.",
     "slug": "bapko-metal",
-    "description": "Headquartered in Orange, CA, BAPKO Metal Inc. is one of Californiaâ€™s most reputable and trusted self-performing contractors specializing in miscellaneous steel and architectural metals. Our quality craftsmanship can be found in the steel structures supporting a diverse range of projects and in the architectural details enhancing commercial, healthcare, and educational facilities across Southern California.\n\nRecognized as a regional leader in steel fabrication and installation, we bring decades of experience that allow us to meet the requirements of large, complex projects â€” on time and on budget. With this expertise comes an unwavering commitment to exceptional customer service. Our long-standing clients have come to depend on us as a reliable partner who adds value to every project. And who delivers on our promises.",
+    "description": "Headquartered in Orange, CA, BAPKO Metal Inc. is one of California’s most reputable and trusted self-performing contractors specializing in miscellaneous steel and architectural metals. Our quality craftsmanship can be found in the steel structures supporting a diverse range of projects and in the architectural details enhancing commercial, healthcare, and educational facilities across Southern California.\n\nRecognized as a regional leader in steel fabrication and installation, we bring decades of experience that allow us to meet the requirements of large, complex projects — on time and on budget. With this expertise comes an unwavering commitment to exceptional customer service. Our long-standing clients have come to depend on us as a reliable partner who adds value to every project. And who delivers on our promises.",
     "address": "721 So. Parker Street, Suite 300, Orange, California 92868",
     "phone": "(714) 787-1693",
     "rating": 0,
@@ -56,7 +56,9 @@
     "location": "Connecticut",
     "lat": 41.635,
     "lng": -72.771,
-    "website": "https://www.berlinsteel.com"
+    "website": "https://www.berlinsteel.com",
+    "logo": "/images/contractors/berlin-steel.jpg",
+    "logoOnDark": true
   },
   {
     "id": "4",
@@ -96,7 +98,9 @@
     "location": "Oregon",
     "lat": 45.503,
     "lng": -122.674,
-    "website": "http://www.carrconstructioninc.com"
+    "website": "http://www.carrconstructioninc.com",
+    "logo": "/images/contractors/carr-construction.jpg",
+    "logoOnDark": true
   },
   {
     "id": "6",
@@ -115,7 +119,9 @@
     "location": "Maine",
     "lat": 43.677,
     "lng": -70.371,
-    "website": "http://www.ccb-inc.com"
+    "website": "http://www.ccb-inc.com",
+    "logo": "/images/contractors/ccb.jpg",
+    "logoOnDark": true
   },
   {
     "id": "7",
@@ -134,7 +140,8 @@
     "location": "Missouri",
     "lat": 39.121,
     "lng": -94.522,
-    "website": "http://www.clarksonconstruction.com"
+    "website": "http://www.clarksonconstruction.com",
+    "logo": "/images/contractors/clarkson-construction.jpg"
   },
   {
     "id": "8",
@@ -153,7 +160,9 @@
     "location": "Ohio",
     "lat": 39.996,
     "lng": -83.126,
-    "website": "https://www.columbussteelerectors.com"
+    "website": "https://www.columbussteelerectors.com",
+    "logo": "/images/contractors/columbus-steel-erectors.jpg",
+    "logoOnDark": true
   },
   {
     "id": "9",
@@ -172,13 +181,15 @@
     "location": "Minnesota",
     "lat": 44.798,
     "lng": -93.527,
-    "website": "http://www.dannysconstruction.com"
+    "website": "http://www.dannysconstruction.com",
+    "logo": "/images/contractors/dannys-construction.jpg",
+    "logoOnDark": true
   },
   {
     "id": "10",
     "name": "DAVNER Group",
     "slug": "davner-group",
-    "description": "Welcome to DAVNER â€“ Your Premier Engineering, Manufacturing, and Construction Solutions Provider. We provide a one-stop solution for building and erecting metal buildings!\n\nAt DAVNER, weâ€™re dedicated to delivering excellence in engineering, manufacturing, and construction services. With our versatile team and diverse expertise, we tackle projects of any scale or complexity, ensuring precision and efficiency every step of the way.",
+    "description": "Welcome to DAVNER – Your Premier Engineering, Manufacturing, and Construction Solutions Provider. We provide a one-stop solution for building and erecting metal buildings!\n\nAt DAVNER, we’re dedicated to delivering excellence in engineering, manufacturing, and construction services. With our versatile team and diverse expertise, we tackle projects of any scale or complexity, ensuring precision and efficiency every step of the way.",
     "address": "1204 Shadow Meadow Way, Paso Robles, California 93446",
     "phone": "(805) 423-1670",
     "rating": 0,
@@ -219,7 +230,7 @@
     "id": "12",
     "name": "DYWIDAG Systems International USA, Inc.",
     "slug": "dywidag-systems-international-usa",
-    "description": "For more than 150 years, DYWIDAG has shaped the worldâ€™s infrastructure - from bridges and tunnels to dams and skyscrapers.\n\nFounded in 1865 by Eugen Dyckerhoff and Gottlieb Widmann, DYWIDAG began as a small German workshop and quickly became a pioneer in construction. Trusted on the worldâ€™s most ambitious projects, we continue that legacy today - bringing intelligence and strength to the infrastructure millions rely on every day.",
+    "description": "For more than 150 years, DYWIDAG has shaped the world’s infrastructure - from bridges and tunnels to dams and skyscrapers.\n\nFounded in 1865 by Eugen Dyckerhoff and Gottlieb Widmann, DYWIDAG began as a small German workshop and quickly became a pioneer in construction. Trusted on the world’s most ambitious projects, we continue that legacy today - bringing intelligence and strength to the infrastructure millions rely on every day.",
     "address": "320 Marmon Drive, Bolingbrook, Illinois 60440",
     "phone": "(630) 739-1100",
     "rating": 0,
@@ -239,7 +250,7 @@
     "id": "13",
     "name": "Evergreen Erectors, Inc.",
     "slug": "evergreen-erectors",
-    "description": "Evergreen Erectors is a family-owned business that was founded in 1997 by a long-time Union Ironworker. Since its inception, the company has grown significantlyâ€”from employing just five ironworkers in 1997 to over 100 team members by 2010. The company has maintained a strong commitment to its employees, fostering a workplace where many have stayed for over a decade.",
+    "description": "Evergreen Erectors is a family-owned business that was founded in 1997 by a long-time Union Ironworker. Since its inception, the company has grown significantly—from employing just five ironworkers in 1997 to over 100 team members by 2010. The company has maintained a strong commitment to its employees, fostering a workplace where many have stayed for over a decade.",
     "address": "1716 W. Marine Drive, Suite C, Everett, Washington 98201",
     "phone": "(425) 697-2189",
     "rating": 0,
@@ -338,7 +349,9 @@
     "location": "Connecticut",
     "lat": 41.396,
     "lng": -72.928,
-    "website": "http://www.havensteelco.com"
+    "website": "http://www.havensteelco.com",
+    "logo": "/images/contractors/haven-steel-erectors.jpg",
+    "logoOnDark": true
   },
   {
     "id": "18",
@@ -379,7 +392,9 @@
     "location": "Pennsylvania",
     "lat": 39.85,
     "lng": -75.356,
-    "website": "http://www.independencesteel.com"
+    "website": "http://www.independencesteel.com",
+    "logo": "/images/contractors/independence-steel.jpg",
+    "logoOnDark": true
   },
   {
     "id": "20",
@@ -397,7 +412,8 @@
     ],
     "location": "Connecticut",
     "lat": 41.517,
-    "lng": -72.712
+    "lng": -72.712,
+    "logo": "/images/contractors/j-m-steel-erectors.jpg"
   },
   {
     "id": "21",
@@ -416,7 +432,9 @@
     "location": "Washington",
     "lat": 48.475,
     "lng": -122.325,
-    "website": "http://www.ljlironworks.com"
+    "website": "http://www.ljlironworks.com",
+    "logo": "/images/contractors/ljl-ironworks.jpg",
+    "logoOnDark": true
   },
   {
     "id": "22",
@@ -456,7 +474,8 @@
     "location": "Texas",
     "lat": 30.19,
     "lng": -98.087,
-    "website": "http://www.patrioterectors.com"
+    "website": "http://www.patrioterectors.com",
+    "logo": "/images/contractors/patriot-erectors.jpg"
   },
   {
     "id": "24",
@@ -495,7 +514,9 @@
     "location": "Ohio",
     "lat": 41.094,
     "lng": -81.74,
-    "website": "http://www.ruhlin.com"
+    "website": "http://www.ruhlin.com",
+    "logo": "/images/contractors/ruhlin-company.jpg",
+    "logoOnDark": true
   },
   {
     "id": "26",
@@ -534,7 +555,8 @@
     "location": "Colorado",
     "lat": 40.167,
     "lng": -105.102,
-    "website": "https://www.snsironworks.com"
+    "website": "https://www.snsironworks.com",
+    "logo": "/images/contractors/sns-iron-works.jpg"
   },
   {
     "id": "28",
@@ -573,7 +595,8 @@
     "location": "Washington",
     "lat": 47.541,
     "lng": -122.316,
-    "website": "http://www.steelkorr.com"
+    "website": "http://www.steelkorr.com",
+    "logo": "/images/contractors/steelkorr.jpg"
   },
   {
     "id": "30",
@@ -592,7 +615,8 @@
     "location": "Georgia",
     "lat": 33.706,
     "lng": -84.35,
-    "website": "http://www.superiorrigging.com"
+    "website": "http://www.superiorrigging.com",
+    "logo": "/images/contractors/superior-rigging-erecting.jpg"
   },
   {
     "id": "31",
@@ -631,7 +655,8 @@
     "location": "Saskatchewan",
     "lat": 52.134,
     "lng": -106.647,
-    "website": "http://www.supremegroup.com"
+    "website": "http://www.supremegroup.com",
+    "logo": "/images/contractors/supreme-group.jpg"
   },
   {
     "id": "33",
@@ -650,7 +675,8 @@
     "location": "California",
     "lat": 37.778,
     "lng": -122.394,
-    "website": "http://www.swinerton.com"
+    "website": "http://www.swinerton.com",
+    "logo": "/images/contractors/swinerton.jpg"
   },
   {
     "id": "34",
@@ -707,13 +733,14 @@
     "location": "Iowa",
     "lat": 41.584,
     "lng": -93.52,
-    "website": "http://www.us-erectors.com"
+    "website": "http://www.us-erectors.com",
+    "logo": "/images/contractors/us-erectors.jpg"
   },
   {
     "id": "37",
     "name": "Walbridge",
     "slug": "walbridge",
-    "description": "Walbridge is a full-service construction company headquartered in Detroit and has built projects both big and small in geographic locations ranging from Midland, Michigan to Chennai, India.\n\nOur company has managed projects with budgets ranging from a few million dollars to multi-billion dollar mega projects. Yet, in February 1945 one of our workers made $12.65 worth of fence alterations for a long-standing client, McLouth Steel. That level of service and dedication to clients still means something to us.\n\nWe relish the challenge of turning the ownerâ€™s vision to physical reality. Regardless of budget or scale, we bring our best game to the project every time. We are a process-driven organization, meaning we repeat procedures that weâ€™ve used time and again because they work. Itâ€™s our job to deliver predictable results.",
+    "description": "Walbridge is a full-service construction company headquartered in Detroit and has built projects both big and small in geographic locations ranging from Midland, Michigan to Chennai, India.\n\nOur company has managed projects with budgets ranging from a few million dollars to multi-billion dollar mega projects. Yet, in February 1945 one of our workers made $12.65 worth of fence alterations for a long-standing client, McLouth Steel. That level of service and dedication to clients still means something to us.\n\nWe relish the challenge of turning the owner’s vision to physical reality. Regardless of budget or scale, we bring our best game to the project every time. We are a process-driven organization, meaning we repeat procedures that we’ve used time and again because they work. It’s our job to deliver predictable results.",
     "address": "777 Woodward Avenue, Suite 300, Detroit, Michigan 48226",
     "phone": "(313) 963-8000",
     "rating": 0,
@@ -746,6 +773,7 @@
     "location": "Ontario",
     "lat": 43.199,
     "lng": -79.837,
-    "website": "http://www.waltersgroupinc.com"
+    "website": "http://www.waltersgroupinc.com",
+    "logo": "/images/contractors/walters-inc.jpg"
   }
 ]
