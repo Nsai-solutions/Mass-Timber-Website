@@ -57,8 +57,7 @@
     "lat": 41.635,
     "lng": -72.771,
     "website": "https://www.berlinsteel.com",
-    "logo": "/images/contractors/berlin-steel.jpg",
-    "logoOnDark": true
+    "logo": "/images/contractors/berlin-steel.png"
   },
   {
     "id": "4",
@@ -99,8 +98,7 @@
     "lat": 45.503,
     "lng": -122.674,
     "website": "http://www.carrconstructioninc.com",
-    "logo": "/images/contractors/carr-construction.jpg",
-    "logoOnDark": true
+    "logo": "/images/contractors/carr-construction.png"
   },
   {
     "id": "6",
@@ -350,8 +348,7 @@
     "lat": 41.396,
     "lng": -72.928,
     "website": "http://www.havensteelco.com",
-    "logo": "/images/contractors/haven-steel-erectors.jpg",
-    "logoOnDark": true
+    "logo": "/images/contractors/haven-steel-erectors.jpg"
   },
   {
     "id": "18",
@@ -393,8 +390,7 @@
     "lat": 39.85,
     "lng": -75.356,
     "website": "http://www.independencesteel.com",
-    "logo": "/images/contractors/independence-steel.jpg",
-    "logoOnDark": true
+    "logo": "/images/contractors/independence-steel.png"
   },
   {
     "id": "20",
@@ -515,8 +511,7 @@
     "lat": 41.094,
     "lng": -81.74,
     "website": "http://www.ruhlin.com",
-    "logo": "/images/contractors/ruhlin-company.jpg",
-    "logoOnDark": true
+    "logo": "/images/contractors/ruhlin-company.jpg"
   },
   {
     "id": "26",
