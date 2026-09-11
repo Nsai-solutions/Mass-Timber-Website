@@ -10,7 +10,7 @@ const contentSections = [
   { label: 'Leadership', href: '/admin/leadership', icon: Users, description: 'Manage leadership team members, bios, and photos', count: 29 },
   { label: 'Contractors', href: '/admin/contractors', icon: Building2, description: 'Manage contractor profiles, locations, and ratings', count: 18 },
   { label: 'Projects', href: '/admin/projects', icon: FileText, description: 'Manage project listings, galleries, and awards', count: 13 },
-  { label: 'Training Centers', href: '/admin/training-centers', icon: GraduationCap, description: 'Manage training facilities, courses, and contacts', count: 8 },
+  { label: 'Training Centers', href: '/admin/training-centers', icon: GraduationCap, description: 'Manage training facilities, courses, and contacts', count: 118 },
   { label: 'Suppliers', href: '/admin/suppliers', icon: Package, description: 'Manage supplier and manufacturer profiles', count: 4 },
   { label: 'FAQ', href: '/admin/faq', icon: HelpCircle, description: 'Manage frequently asked questions', count: 6 },
   { label: 'Testimonials', href: '/admin/testimonials', icon: MessageCircle, description: 'Manage partner testimonials and quotes', count: 2 },

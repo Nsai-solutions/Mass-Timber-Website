@@ -167,16 +167,18 @@ export default function TrainingCentersPage() {
                   {center.phone}
                 </p>
 
-                <div className="border-t border-charcoal-900/10 pt-4">
-                  <p className="text-xs font-semibold text-charcoal-950/80 mb-2 uppercase tracking-wider">Available Courses</p>
-                  <div className="flex flex-wrap gap-2">
-                    {center.courses.map((course) => (
-                      <span key={course} className="text-xs px-2 py-1 rounded-md bg-forest-500/10 text-forest-500 font-medium">
-                        {course}
-                      </span>
-                    ))}
+                {center.courses && center.courses.length > 0 && (
+                  <div className="border-t border-charcoal-900/10 pt-4">
+                    <p className="text-xs font-semibold text-charcoal-950/80 mb-2 uppercase tracking-wider">Available Courses</p>
+                    <div className="flex flex-wrap gap-2">
+                      {center.courses.map((course) => (
+                        <span key={course} className="text-xs px-2 py-1 rounded-md bg-forest-500/10 text-forest-500 font-medium">
+                          {course}
+                        </span>
+                      ))}
+                    </div>
                   </div>
-                </div>
+                )}
               </GlassCard>
             ))}
           </div>
