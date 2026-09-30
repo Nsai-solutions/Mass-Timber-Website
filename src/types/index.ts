@@ -13,6 +13,7 @@ export interface Contractor {
   logo?: string;
   logoOnDark?: boolean;
   categories: string[];
+  services?: string[];
   location?: string;
   lat?: number | null;
   lng?: number | null;

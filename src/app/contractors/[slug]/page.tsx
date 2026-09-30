@@ -87,20 +87,22 @@ export default async function ContractorDetailPage({ params }: { params: Promise
                 )}
               </GlassPanel>
 
-              {/* Services */}
-              <GlassPanel>
-                <h2 className="text-2xl font-bold font-[family-name:var(--font-jakarta)] text-charcoal-950 mb-6">Services</h2>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  {['Mass Timber Erection', 'CLT Panel Installation', 'Glulam Beam Placement', 'Steel Connection Work', 'Structural Assembly', 'Crane & Rigging Operations'].map((service) => (
-                    <div key={service} className="flex items-center gap-3">
-                      <div className="w-8 h-8 rounded-lg bg-amber-500/10 flex items-center justify-center shrink-0">
-                        <svg className="w-4 h-4 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" /></svg>
+              {/* Services — scope of work from the IMPACT signatory contractor data */}
+              {(contractor.services?.length ?? 0) > 0 && (
+                <GlassPanel>
+                  <h2 className="text-2xl font-bold font-[family-name:var(--font-jakarta)] text-charcoal-950 mb-6">Scope of Work</h2>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    {contractor.services!.map((service) => (
+                      <div key={service} className="flex items-center gap-3">
+                        <div className="w-8 h-8 rounded-lg bg-amber-500/10 flex items-center justify-center shrink-0">
+                          <svg className="w-4 h-4 text-amber-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" /></svg>
+                        </div>
+                        <span className="text-charcoal-950/70">{service}</span>
                       </div>
-                      <span className="text-charcoal-950/70">{service}</span>
-                    </div>
-                  ))}
-                </div>
-              </GlassPanel>
+                    ))}
+                  </div>
+                </GlassPanel>
+              )}
             </div>
 
             {/* Sidebar */}

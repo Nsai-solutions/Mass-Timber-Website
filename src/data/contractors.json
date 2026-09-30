@@ -17,7 +17,20 @@
     "lat": 33.865,
     "lng": -118.253,
     "website": "http://www.alliancecommercialconstructioninc.com",
-    "logo": "/images/contractors/alliance-commercial-construction.jpg"
+    "logo": "/images/contractors/alliance-commercial-construction.jpg",
+    "services": [
+      "Abatement",
+      "Civil",
+      "Decking",
+      "Detention Facilities",
+      "Electrical",
+      "Fence Erection",
+      "Mass Timber",
+      "Painting",
+      "Post Tensioning",
+      "Reinforcing/Rebar",
+      "Roofing"
+    ]
   },
   {
     "id": "2",
@@ -37,7 +50,13 @@
     "lat": 33.787,
     "lng": -117.853,
     "website": "http://www.bapko.com",
-    "logo": "/images/contractors/bapko-metal.png"
+    "logo": "/images/contractors/bapko-metal.png",
+    "services": [
+      "Architectural",
+      "Fabrication",
+      "Mass Timber",
+      "Structural Erection"
+    ]
   },
   {
     "id": "3",
@@ -57,7 +76,13 @@
     "lat": 41.635,
     "lng": -72.771,
     "website": "https://www.berlinsteel.com",
-    "logo": "/images/contractors/berlin-steel.png"
+    "logo": "/images/contractors/berlin-steel.png",
+    "services": [
+      "Mass Timber",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Structural Erection"
+    ]
   },
   {
     "id": "4",
@@ -78,7 +103,15 @@
     "lng": -122.141,
     "website": "http://www.calerectors.com",
     "logo": "/images/contractors/california-erectors.svg",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Detention Facilities",
+      "Mass Timber",
+      "Miscellaneous Steel",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "5",
@@ -98,7 +131,19 @@
     "lat": 45.503,
     "lng": -122.674,
     "website": "http://www.carrconstructioninc.com",
-    "logo": "/images/contractors/carr-construction.png"
+    "logo": "/images/contractors/carr-construction.png",
+    "services": [
+      "Decking",
+      "Fabrication",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Doors",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "6",
@@ -119,7 +164,14 @@
     "lng": -70.371,
     "website": "http://www.ccb-inc.com",
     "logo": "/images/contractors/ccb.jpg",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Mass Timber",
+      "Piping",
+      "Plant Maintenance",
+      "Rigging",
+      "Welding"
+    ]
   },
   {
     "id": "7",
@@ -139,7 +191,13 @@
     "lat": 39.121,
     "lng": -94.522,
     "website": "http://www.clarksonconstruction.com",
-    "logo": "/images/contractors/clarkson-construction.jpg"
+    "logo": "/images/contractors/clarkson-construction.jpg",
+    "services": [
+      "Bridge",
+      "Mass Timber",
+      "Ornamental",
+      "Piping"
+    ]
   },
   {
     "id": "8",
@@ -160,7 +218,18 @@
     "lng": -83.126,
     "website": "https://www.columbussteelerectors.com",
     "logo": "/images/contractors/columbus-steel-erectors.jpg",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Decking",
+      "Detention Facilities",
+      "Insulation",
+      "Mass Timber",
+      "Metal Buildings",
+      "Miscellaneous Steel",
+      "Pre-Cast Concrete",
+      "Roofing",
+      "Structural Erection"
+    ]
   },
   {
     "id": "9",
@@ -181,7 +250,17 @@
     "lng": -93.527,
     "website": "http://www.dannysconstruction.com",
     "logo": "/images/contractors/dannys-construction.jpg",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Decking",
+      "Mass Timber",
+      "Miscellaneous Steel",
+      "Pre-Cast Concrete",
+      "Reinforcing/Rebar",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "10",
@@ -201,7 +280,20 @@
     "lat": 35.627,
     "lng": -120.691,
     "website": "http://www.davnergroup.com",
-    "logo": "/images/contractors/davner-group.png"
+    "logo": "/images/contractors/davner-group.png",
+    "services": [
+      "Exterior Enclosures/Envelope",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Doors",
+      "Metal Handrails",
+      "Metal Panels",
+      "Metal Stairs",
+      "Rigging",
+      "Roofing",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "11",
@@ -222,7 +314,17 @@
     "lng": -104.772,
     "website": "http://www.dgccsteel.com",
     "logo": "/images/contractors/dgcc-steel.png",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Decking",
+      "Mass Timber",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Pre-Cast Concrete",
+      "Structural Erection"
+    ]
   },
   {
     "id": "12",
@@ -242,7 +344,12 @@
     "lat": 41.699,
     "lng": -88.081,
     "website": "http://www.dywidag.com",
-    "logo": "/images/contractors/dywidag-systems.svg"
+    "logo": "/images/contractors/dywidag-systems.svg",
+    "services": [
+      "Bridge",
+      "Mass Timber",
+      "Post Tensioning"
+    ]
   },
   {
     "id": "13",
@@ -262,7 +369,16 @@
     "lat": 47.979,
     "lng": -122.207,
     "website": "http://evergreenerectors.com",
-    "logo": "/images/contractors/evergreen-erectors.png"
+    "logo": "/images/contractors/evergreen-erectors.png",
+    "services": [
+      "Decking",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Doors",
+      "Miscellaneous Steel",
+      "Post Tensioning",
+      "Structural Erection"
+    ]
   },
   {
     "id": "14",
@@ -283,7 +399,18 @@
     "lng": -118.193,
     "website": "http://www.FeSteelCo.com",
     "logo": "/images/contractors/fe-steel-company.svg",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Fabrication",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Handrails",
+      "Metal Panels",
+      "Miscellaneous Steel",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "15",
@@ -306,7 +433,24 @@
     "lat": 48.546,
     "lng": -117.905,
     "website": "http://www.foustfab.com",
-    "logo": "/images/contractors/foust-fabrication-erectors.jpg"
+    "logo": "/images/contractors/foust-fabrication-erectors.jpg",
+    "services": [
+      "Exterior Enclosures/Envelope",
+      "Fabrication",
+      "Machinery Moving",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Doors",
+      "Metal Handrails",
+      "Metal Panels",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Pre-Cast Concrete",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "16",
@@ -328,7 +472,14 @@
     "lat": 34.181,
     "lng": -118.309,
     "website": "http://www.genisairon.com",
-    "logo": "/images/contractors/genisa-iron.png"
+    "logo": "/images/contractors/genisa-iron.png",
+    "services": [
+      "Fence Erection",
+      "Mass Timber",
+      "Metal Handrails",
+      "Miscellaneous Steel",
+      "Structural Erection"
+    ]
   },
   {
     "id": "17",
@@ -348,7 +499,16 @@
     "lat": 41.396,
     "lng": -72.928,
     "website": "http://www.havensteelco.com",
-    "logo": "/images/contractors/haven-steel-erectors.jpg"
+    "logo": "/images/contractors/haven-steel-erectors.jpg",
+    "services": [
+      "Decking",
+      "Heavy & Highway",
+      "Mass Timber",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental"
+    ]
   },
   {
     "id": "18",
@@ -370,7 +530,15 @@
     "lat": 25.836,
     "lng": -80.317,
     "website": "http://www.hodgeserectors.com",
-    "logo": "/images/contractors/hodges-erectors.jpg"
+    "logo": "/images/contractors/hodges-erectors.jpg",
+    "services": [
+      "Decking",
+      "Fabrication",
+      "Mass Timber",
+      "Miscellaneous Steel",
+      "Pre-Cast Concrete",
+      "Structural Erection"
+    ]
   },
   {
     "id": "19",
@@ -390,7 +558,17 @@
     "lat": 39.85,
     "lng": -75.356,
     "website": "http://www.independencesteel.com",
-    "logo": "/images/contractors/independence-steel.png"
+    "logo": "/images/contractors/independence-steel.png",
+    "services": [
+      "Architectural",
+      "Mass Timber",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Pre-Cast Concrete",
+      "Structural Erection"
+    ]
   },
   {
     "id": "20",
@@ -409,7 +587,11 @@
     "location": "Connecticut",
     "lat": 41.517,
     "lng": -72.712,
-    "logo": "/images/contractors/j-m-steel-erectors.jpg"
+    "logo": "/images/contractors/j-m-steel-erectors.jpg",
+    "services": [
+      "Mass Timber",
+      "Structural Erection"
+    ]
   },
   {
     "id": "21",
@@ -430,7 +612,21 @@
     "lng": -122.325,
     "website": "http://www.ljlironworks.com",
     "logo": "/images/contractors/ljl-ironworks.jpg",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Architectural",
+      "Decking",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Pre-Cast Concrete",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "22",
@@ -451,7 +647,19 @@
     "lng": -117.301,
     "website": "http://www.moeniron.com",
     "logo": "/images/contractors/moen-iron.webp",
-    "logoOnDark": true
+    "logoOnDark": true,
+    "services": [
+      "Fabrication",
+      "Fence Erection",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "23",
@@ -471,7 +679,13 @@
     "lat": 30.19,
     "lng": -98.087,
     "website": "http://www.patrioterectors.com",
-    "logo": "/images/contractors/patriot-erectors.jpg"
+    "logo": "/images/contractors/patriot-erectors.jpg",
+    "services": [
+      "Fabrication",
+      "Mass Timber",
+      "Ornamental",
+      "Structural Erection"
+    ]
   },
   {
     "id": "24",
@@ -491,7 +705,16 @@
     "lat": 38.066,
     "lng": -122.141,
     "website": "http://www.qualityerectors.com",
-    "logo": "/images/contractors/quality-erectors.png"
+    "logo": "/images/contractors/quality-erectors.png",
+    "services": [
+      "Decking",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Panels",
+      "Ornamental",
+      "Sheet Metal",
+      "Structural Erection"
+    ]
   },
   {
     "id": "25",
@@ -511,7 +734,20 @@
     "lat": 41.094,
     "lng": -81.74,
     "website": "http://www.ruhlin.com",
-    "logo": "/images/contractors/ruhlin-company.jpg"
+    "logo": "/images/contractors/ruhlin-company.jpg",
+    "services": [
+      "Civil",
+      "Decking",
+      "Fabrication",
+      "Mass Timber",
+      "Miscellaneous Steel",
+      "Post Tensioning",
+      "Pre-Cast Concrete",
+      "Rigging",
+      "Siding",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "26",
@@ -531,7 +767,19 @@
     "lat": 36.674,
     "lng": -121.657,
     "website": "http://www.ssbconstruction.com",
-    "logo": "/images/contractors/salinas-steel-builders.png"
+    "logo": "/images/contractors/salinas-steel-builders.png",
+    "services": [
+      "Equipment Rental",
+      "Insulation",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Panels",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Painting",
+      "Siding",
+      "Structural Erection"
+    ]
   },
   {
     "id": "27",
@@ -551,7 +799,20 @@
     "lat": 40.167,
     "lng": -105.102,
     "website": "https://www.snsironworks.com",
-    "logo": "/images/contractors/sns-iron-works.jpg"
+    "logo": "/images/contractors/sns-iron-works.jpg",
+    "services": [
+      "Decking",
+      "Mass Timber",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Plant Maintenance",
+      "Rigging",
+      "Siding",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "28",
@@ -571,7 +832,14 @@
     "lat": 33.889,
     "lng": -118.16,
     "website": "http://www.southbayiron.com/home.html",
-    "logo": "/images/contractors/south-bay-iron.webp"
+    "logo": "/images/contractors/south-bay-iron.webp",
+    "services": [
+      "Fabrication",
+      "Mass Timber",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Structural Erection"
+    ]
   },
   {
     "id": "29",
@@ -591,7 +859,16 @@
     "lat": 47.541,
     "lng": -122.316,
     "website": "http://www.steelkorr.com",
-    "logo": "/images/contractors/steelkorr.jpg"
+    "logo": "/images/contractors/steelkorr.jpg",
+    "services": [
+      "Mass Timber",
+      "Metal Handrails",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Pre-Cast Concrete",
+      "Reinforcing/Rebar",
+      "Structural Erection"
+    ]
   },
   {
     "id": "30",
@@ -611,7 +888,17 @@
     "lat": 33.706,
     "lng": -84.35,
     "website": "http://www.superiorrigging.com",
-    "logo": "/images/contractors/superior-rigging-erecting.jpg"
+    "logo": "/images/contractors/superior-rigging-erecting.jpg",
+    "services": [
+      "Decking",
+      "Equipment Rental",
+      "Machinery Moving",
+      "Mass Timber",
+      "Miscellaneous Steel",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "31",
@@ -631,7 +918,25 @@
     "lat": 47.388,
     "lng": -122.233,
     "website": "http://www.superiorsteel.com",
-    "logo": "/images/contractors/superior-steel.png"
+    "logo": "/images/contractors/superior-steel.png",
+    "services": [
+      "Architectural",
+      "Decking",
+      "Detention Facilities",
+      "Fabrication",
+      "Machinery Moving",
+      "Mass Timber",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Plant Maintenance",
+      "Post Tensioning",
+      "Pre-Cast Concrete",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "32",
@@ -651,7 +956,13 @@
     "lat": 52.134,
     "lng": -106.647,
     "website": "http://www.supremegroup.com",
-    "logo": "/images/contractors/supreme-group.jpg"
+    "logo": "/images/contractors/supreme-group.jpg",
+    "services": [
+      "Bridge",
+      "Fabrication",
+      "Mass Timber",
+      "Structural Erection"
+    ]
   },
   {
     "id": "33",
@@ -671,7 +982,11 @@
     "lat": 37.778,
     "lng": -122.394,
     "website": "http://www.swinerton.com",
-    "logo": "/images/contractors/swinerton.jpg"
+    "logo": "/images/contractors/swinerton.jpg",
+    "services": [
+      "Mass Timber",
+      "Reinforcing/Rebar"
+    ]
   },
   {
     "id": "34",
@@ -689,7 +1004,14 @@
     ],
     "location": "Newfoundland and Labrador",
     "lat": 47.533,
-    "lng": -52.865
+    "lng": -52.865,
+    "services": [
+      "Fabrication",
+      "Mass Timber",
+      "Pre-Cast Concrete",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "35",
@@ -709,7 +1031,17 @@
     "lat": 38.816,
     "lng": -76.749,
     "website": "http://www.tsicorporations.com",
-    "logo": "/images/contractors/tsi-corporations.jpg"
+    "logo": "/images/contractors/tsi-corporations.jpg",
+    "services": [
+      "Curtain Walls",
+      "Fabrication",
+      "Insulation",
+      "Mass Timber",
+      "Metal Panels",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental"
+    ]
   },
   {
     "id": "36",
@@ -729,7 +1061,21 @@
     "lat": 41.584,
     "lng": -93.52,
     "website": "http://www.us-erectors.com",
-    "logo": "/images/contractors/us-erectors.jpg"
+    "logo": "/images/contractors/us-erectors.jpg",
+    "services": [
+      "Decking",
+      "Mass Timber",
+      "Metal Buildings",
+      "Metal Handrails",
+      "Metal Stairs",
+      "Miscellaneous Steel",
+      "Ornamental",
+      "Pre-Cast Concrete",
+      "Reinforcing/Rebar",
+      "Rigging",
+      "Structural Erection",
+      "Welding"
+    ]
   },
   {
     "id": "37",
@@ -749,7 +1095,11 @@
     "lat": 42.331,
     "lng": -83.048,
     "website": "http://www.walbridge.com",
-    "logo": "/images/contractors/walbridge-contractors.png"
+    "logo": "/images/contractors/walbridge-contractors.png",
+    "services": [
+      "Mass Timber",
+      "Structural Erection"
+    ]
   },
   {
     "id": "38",
@@ -769,6 +1119,11 @@
     "lat": 43.199,
     "lng": -79.837,
     "website": "http://www.waltersgroupinc.com",
-    "logo": "/images/contractors/walters-inc.jpg"
+    "logo": "/images/contractors/walters-inc.jpg",
+    "services": [
+      "Fabrication",
+      "Mass Timber",
+      "Structural Erection"
+    ]
   }
 ]
