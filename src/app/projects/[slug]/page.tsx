@@ -1,5 +1,7 @@
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
+import Link from 'next/link';
+import { findContractorByName } from '@/lib/contractor-projects';
 import type { Metadata } from 'next';
 import { PageBanner } from '@/components/layout/PageBanner';
 import { Container } from '@/components/ui/Container';
@@ -63,6 +65,7 @@ export default async function ProjectDetailPage({ params }: { params: Promise<{ 
 
   if (!project) return notFound();
 
+  const linkedContractor = findContractorByName(project.contractor);
   const hasGallery = project.gallery && project.gallery.length > 1;
 
   return (
@@ -197,7 +200,18 @@ export default async function ProjectDetailPage({ params }: { params: Promise<{ 
                     </div>
                     <StatItem label="Location" value={project.location} />
                     {project.owner && <StatItem label="Owner" value={project.owner} />}
-                    {project.contractor && <StatItem label="Contractor" value={project.contractor} />}
+                    {project.contractor && (
+                      linkedContractor ? (
+                        <div>
+                          <p className="text-sm font-semibold text-charcoal-950">Contractor</p>
+                          <Link href={`/contractors/${linkedContractor.slug}`} className="text-sm text-amber-500 hover:text-amber-600 transition-colors">
+                            {project.contractor}
+                          </Link>
+                        </div>
+                      ) : (
+                        <StatItem label="Contractor" value={project.contractor} />
+                      )
+                    )}
                     {project.generalContractor && <StatItem label="General Contractor" value={project.generalContractor} />}
                     {project.ironworkerHours && (
                       <StatItem label="Ironworker Hours" value={project.ironworkerHours.toLocaleString()} />

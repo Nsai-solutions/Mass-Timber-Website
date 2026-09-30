@@ -11,6 +11,8 @@ import { GradientOrb } from '@/components/ui/GradientOrb';
 import { isRotatedImage, getImageRotation, cn } from '@/lib/utils';
 import { slideshowImages } from '@/data/slideshow-images';
 import contractorsData from '@/data/contractors.json';
+import { projectsForContractor } from '@/lib/contractor-projects';
+import { ProjectCard } from '@/components/cards/ProjectCard';
 import type { Contractor } from '@/types';
 
 const contractors = contractorsData as Contractor[];
@@ -34,6 +36,8 @@ export default async function ContractorDetailPage({ params }: { params: Promise
   const contractor = contractors.find((c) => c.slug === slug);
 
   if (!contractor) return notFound();
+
+  const contractorProjects = projectsForContractor(contractor);
 
   return (
     <>
@@ -99,6 +103,20 @@ export default async function ContractorDetailPage({ params }: { params: Promise
                         </div>
                         <span className="text-charcoal-950/70">{service}</span>
                       </div>
+                    ))}
+                  </div>
+                </GlassPanel>
+              )}
+
+              {/* Projects by this contractor */}
+              {contractorProjects.length > 0 && (
+                <GlassPanel>
+                  <h2 className="text-2xl font-bold font-[family-name:var(--font-jakarta)] text-charcoal-950 mb-6">
+                    Mass Timber Projects
+                  </h2>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                    {contractorProjects.map((project) => (
+                      <ProjectCard key={project.id} project={project} />
                     ))}
                   </div>
                 </GlassPanel>
