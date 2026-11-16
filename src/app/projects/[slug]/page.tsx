@@ -203,13 +203,13 @@ export default async function ProjectDetailPage({ params }: { params: Promise<{ 
                     {project.contractor && (
                       linkedContractor ? (
                         <div>
-                          <p className="text-sm font-semibold text-charcoal-950">Contractor</p>
+                          <p className="text-sm font-semibold text-charcoal-950">Erector</p>
                           <Link href={`/contractors/${linkedContractor.slug}`} className="text-sm text-amber-500 hover:text-amber-600 transition-colors">
                             {project.contractor}
                           </Link>
                         </div>
                       ) : (
-                        <StatItem label="Contractor" value={project.contractor} />
+                        <StatItem label="Erector" value={project.contractor} />
                       )
                     )}
                     {project.generalContractor && <StatItem label="General Contractor" value={project.generalContractor} />}

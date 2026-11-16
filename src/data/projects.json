@@ -9,11 +9,14 @@
   },
   {
     "id": "2",
-    "name": "269 A Street",
-    "slug": "269-a-street",
-    "location": "Boston, MA",
+    "name": "69 A Street",
+    "slug": "69-a-street",
+    "location": "South Boston, MA",
     "category": "Commercial",
-    "image": "/images/construction-wide.png"
+    "image": "/images/construction-wide.png",
+    "description": "Renovation, expansion, and commercial conversion of a 1920s three-story brick-and-beam rivet factory, topped with a two-story cross-laminated timber vertical addition - the first building in the U.S. to incorporate CLT into a renovation and vertical expansion. Roughly 21,000 sq ft of CLT let two new floors be stacked on the 100-year-old structure without replacing or reinforcing the foundations, with each floor erected in days rather than weeks. Completed in 2022. Architect: Margulies Perruzzi; structural engineer: McNamara Salvia.",
+    "generalContractor": "Commodore Builders",
+    "sqft": "45,670 sq ft"
   },
   {
     "id": "3",
